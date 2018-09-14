@@ -1,0 +1,5 @@
+bill = c(46, 33, 39, 37, 46, 30, 48, 32, 49, 35, 30, 48)
+sum(bill)
+max(bill)
+min(bill)
+sum(bill  > 40)*100/length(bill)
